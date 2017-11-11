@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/drawable-v21/md_btn_selector_ripple_dark.xml"
+    }
+]

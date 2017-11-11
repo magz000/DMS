@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "353513636764",
+    "firebase_url": "https://tip-dms.firebaseio.com",
+    "project_id": "tip-dms",
+    "storage_bucket": "tip-dms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353513636764:android:fd9068a34a64946f",
+        "android_client_info": {
+          "package_name": "ph.edu.tip.app.dms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353513636764-92h4rp24ffh4p8plvmqbsc418cu1vmrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwkMfTGBlk93AMlGCzLqvaI0pLnE0Vv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/menu_name"
+            android:orderInCategory="1"
+            android:title="File Name"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_date"
+            android:orderInCategory="2"
+            android:title="Date Created"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/menu_size"
+            android:orderInCategory="3"
+            android:title="Size"
+            app:showAsAction="never" />
+</menu>

@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/dialog_pick.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/dialog_pick.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_breadcrumbs.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_breadcrumbs.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_folders.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_folders.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/dialog_share.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/dialog_share.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_input.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_file_picker.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/d661f33c899e8e6489e8b1d1386db7a3b52dd27d/output/res/layout/activity_file_picker.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_document_uploaded_files.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_document_uploaded_files.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/dialog_files.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/dialog_files.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/folder_layout.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/folder_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_basic_check.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_basic_check.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_pick.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_pick.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/no_result.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/no_result.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/no_file.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/no_file.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/suggest_item.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/4c31dea9c80d5d342d72b116470d33631dd16ec9/output/res/layout/suggest_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_doc_uploaded.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_doc_uploaded.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/no_folders.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/no_folders.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_folder.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_folder.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/add_item_footer.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/add_item_footer.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_shared_by_me.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_shared_by_me.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/search_view.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/4c31dea9c80d5d342d72b116470d33631dd16ec9/output/res/layout/search_view.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_custom.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_layout.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_file_uploaded.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_file_uploaded.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_doc_viewer.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_doc_viewer.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_file_searched.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_file_searched.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_basic.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/no_file_yet.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/no_file_yet.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_shared_to_me.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_shared_to_me.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_input_check.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_input_check.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_doc_shared.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_doc_shared.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/b3fc7188cee070dc9c0c8447513af9329efdcc25/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/dialog_document_edit.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/dialog_document_edit.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_list_check.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_list_check.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/dialog_unshare.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/dialog_unshare.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/pugnotification_custom.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/94fcdeeae9717e3ad8ce8148532cf950973c5c4b/output/res/layout/pugnotification_custom.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_stub_titleframe.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_photo_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/d661f33c899e8e6489e8b1d1386db7a3b52dd27d/output/res/layout/item_photo_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_photo.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_photo.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/no_shared_documents.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/no_shared_documents.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/fragment_photo_picker.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/d661f33c899e8e6489e8b1d1386db7a3b52dd27d/output/res/layout/fragment_photo_picker.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/no_documents.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/no_documents.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_shared_document.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_shared_document.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_advance_search.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_advance_search.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_photo.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_photo.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_template.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/item_template.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_add_files.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_add_files.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/fragment_doc_picker.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/d661f33c899e8e6489e8b1d1386db7a3b52dd27d/output/res/layout/fragment_doc_picker.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/spinner_row.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/spinner_row.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/document_item.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/document_item.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_shared_document_files.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_shared_document_files.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/item_doc_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/d661f33c899e8e6489e8b1d1386db7a3b52dd27d/output/res/layout/item_doc_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/83c1d627d82dff8f5761c5160e7f06f82f2c1c58/output/res/layout/md_listitem.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout/activity_document.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout/activity_document.xml"
+    }
+]

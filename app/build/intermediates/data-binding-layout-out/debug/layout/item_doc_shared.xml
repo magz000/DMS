@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="6dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:padding="6dp"
+        android:weightSum="1"
+        android:layout_toLeftOf="@+id/more"
+        android:layout_toRightOf="@+id/iv_photo">
+
+        <TextView
+            android:id="@+id/tv_file_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_photo"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="NICE SAMPLE"
+            android:textColor="@color/darkGray"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_file_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3 files"
+            android:textSize="14sp"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tv_shared_by"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="14sp"
+            android:layout_marginTop="10dp"
+            android:visibility="visible" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/iv_photo"
+                android:text="Tags: "
+                android:textSize="14sp" />
+
+            <me.gujun.android.taggroup.TagGroup
+                android:id="@+id/tag_group_large"
+                style="@style/TagGroup.Gray"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_file_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_photo"
+            android:text="10/20/16"
+            android:textColor="@color/lightGray"
+            android:textSize="12sp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/linearLayout"
+        android:background="#e7e7e7" />
+
+    <ImageView
+        android:id="@+id/iv_photo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="6dp"
+        android:padding="1dip"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_file_text_o"
+        android:tint="@color/blue" />
+
+    <ImageView
+        android:id="@+id/more"
+        android:background="?selectableItemBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_more_vert"
+        android:tint="@color/gray"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/tv_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerViewFiles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_title"
+        android:scrollbars="vertical"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/addMoreFiles"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/recyclerViewFiles"
+        android:background="?selectableItemBackground"
+        android:clickable="true"
+        android:gravity="center"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Add More Files"
+            android:textColor="@color/lightGray" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/no_file_yet"
+        layout="@layout/no_file_yet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/addMoreFiles"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tv_title" />
+
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/imageViewRefresh"
+        android:background="@color/colorPrimary"
+        android:padding="16dp"
+        android:text="Files"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageViewRefresh"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/recyclerViewFiles"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:background="?android:selectableItemBackground"
+        android:clickable="true"
+        android:padding="10dp"
+        android:src="@drawable/ic_refresh"
+        android:tint="@color/white" />
+</RelativeLayout>
+

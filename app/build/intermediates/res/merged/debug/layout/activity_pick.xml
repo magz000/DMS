@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/no_file" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/addMoreFiles"
+        android:layout_below="@+id/appbar" />
+
+    <LinearLayout
+        android:id="@+id/addMoreFiles"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_above="@id/uploadButton"
+        android:background="?selectableItemBackground"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:gravity="center"
+            android:text="Add More Files"
+            android:textColor="@color/colorAccent" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/uploadButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:background="@drawable/rounded_button_accent"
+        android:text="UPLOAD"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorPrimary">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:navigationIcon="@drawable/ic_arrow_back"
+            app:title="Upload Documents"
+            app:titleTextColor="@color/white" />
+
+
+        <EditText
+            android:id="@+id/etTemplate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:background="@drawable/custom_edittext_selector"
+            android:hint="Template"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:text="Description:"
+            android:textColor="@color/white" />
+
+        <EditText
+            android:id="@+id/etDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:hint="Say something about your document"
+            android:inputType="textCapSentences"
+            android:maxLength="150"
+            android:textColor="@color/white"
+            android:textColorHint="@color/lightestGray"
+            android:textSize="16sp">
+
+            <requestFocus />
+        </EditText>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:text="Restriction:"
+            android:textColor="@color/white" />
+
+        <EditText
+            android:id="@+id/etRest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:hint=""
+            android:inputType="textCapSentences"
+            android:maxLength="150"
+            android:textColor="@color/white"
+            android:textColorHint="@color/lightestGray"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:text="Tags: "
+            android:textColor="@color/white" />
+
+        <me.gujun.android.taggroup.TagGroup
+            android:id="@+id/tag_group"
+            style="@style/TagGroup"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="8dp"
+            android:splitMotionEvents="true"
+            app:atg_isAppendMode="true" />
+    </android.support.design.widget.AppBarLayout>
+
+</RelativeLayout>

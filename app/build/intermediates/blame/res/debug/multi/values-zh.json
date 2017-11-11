@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/jeielaraneta/.android/build-cache/56ec2f0bc0b2a584d7bd6e1fc2bc574b659ce803/output/res/values-zh/values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 40,
+                        "endOffset": 229
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ph.edu.tip.app.dms">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.PickerActivity" />
+        <activity android:name=".activities.DocumentsActivity" />
+        <!--
+            <activity
+            android:name=".activities.FoldersActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        -->
+        <activity android:name=".activities.MainActivity" />
+        <activity android:name=".activities.PhotoActivity" />
+        <activity android:name=".activities.AddMoreFiles" />
+        <activity android:name=".activities.AdvanceSearchActivity" />
+        <activity android:name=".activities.DocumentUploadedFilesActivity" />
+        <activity android:name=".activities.DocViewerActivity" />
+
+        <receiver
+            android:name=".receiver.DownloadReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="br.com.bemobi.medescope.ACTION_BROADCAST_FINISH_WITH_SUCCESS" />
+                <action android:name="br.com.bemobi.medescope.ACTION_BROADCAST_FINISH_WITH_ERROR" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".activities.SharedDocumentToMeActivity" />
+        <activity android:name=".activities.SharedDocumentByMeActivity" />
+        <activity android:name=".activities.SharedDocumentFilesActivity" />
+    </application>
+
+</manifest>

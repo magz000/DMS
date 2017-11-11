@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\android-studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.1\baseLibrary-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2626e02aa9592edd5386d87408e05727303d9ded">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\baseLibrary-2.3.1_a14187e9b579bfa0bd1a686c92fa8e33d968cc65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_ae868de884af0769bfd64db54eeb9c92d9ae398f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\gson-2.7_9af758b9e3947c60b366cc3272e5e599b6cd3c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\92ffd1bf73b89f2bc8102d68daa6d5ae18a550e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_a1eea70783ab885ea796f113efea30e0e818ec07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\a0eede49c9d8c4410341baa4b350d9d90e38575a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f9a66fedbb9fcf7fb6ec4d5354bde00a6af99ce5">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_e88b525388da33ec7e0e2fd2f51fded91296e0bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\f444696bcc2e6ce1847a8dc74d61f2f9c6a82513\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_23e5c9ace8aa59d05c1c8e02f4a182fbba4cca37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\44ccb4a6848435757c51587b91f5e6003cc07df1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_6f3a32d5b5c8ce237ec43a711c3aa18d2360ce5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\c2141afd2b6bda6d88ba05fb7838065c7cb2585e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_89f73e0946adfdd51d213a594e691e6187239bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\0e704df1ceb6d48661e87257d53ed0f903ab37bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_ddaece3c4758f0b44d5c122f92cf70bccfc774af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\5d9b428a528356dfecb1bbcfb3e7484a000509ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_3a70c2c08e8ce572cc008d400e64348b399d5dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\13a71a1b481f5cd67cd6f9bcae25d545b41e8ec6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f91fda9bdd268cd21a0ef9d8f40154ded0bd4c53">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_18dc96e24c30e33c3deb951521600a82aabb9bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\a7d3aad650613b3e1798907425aea30de6357085\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be30e8633e64c6129cf860efa97ac3687fa28bad">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_691958f99530df84b91cd2884307e54720b1b9b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\7401602dcfd8a4b25746061cb441126b5b652c7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_b16fd7c9417fed1028ae08604cd40258327028c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\44bfd24afb585ba6bcc0e93d015b1f0f9edc927a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd72e971ae6a7defa5e184470b749583c9a31923">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_aaeaba6d99f43f6fb4fe2316bb37be5126fb4dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\ba75787acf4247bdb4995d0d4544760c97877e34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_bdc7c32459556880d5d711890f6bf509c5cba8bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\f4ff053a468cd940411f00673ea2368ef70892e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_6fe6a37aca68c2951f2f5189bd8f539b2334cf4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_cec7b817be4ce20853771fd6d574d6286dac755e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\e5842fbd969b7778b96fa3edcedaf8c2fcd48617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_a6fa27f4899e7579e5f65d605860bc6a27a16c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\c57d57ba53ecc159afe4a46bcf8f1c3991b275ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_a41c5406b4dfae51f8441bb86b838a464252d3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.0\ba14d8b7789efde5ee150eacb297b7237abca39\logging-interceptor-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ba14d8b7789efde5ee150eacb297b7237abca39">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.0_d1b8a16dfc63b14369bafffae52319a9b59212f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\e8ee8a10bba31bae48eac2579b6af76384479885\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_9a21bf67e36eac395ad71c4cd84110e26f084024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\2.1.1\d5a450f6ad58f779e924381744ecff0ef7e8d453\realm-annotations-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5a450f6ad58f779e924381744ecff0ef7e8d453">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\realm-annotations-2.1.1_db8b630ad4a3351d32c48ec81ddcf0ac979eaa33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\96ed374286ea318ca49a2b0f8908e646eac09ea1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_ea05ae632e7062ab78500e5b6c7aa8ba4ce5ec63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\glide-3.7.0_9d2234f6a0b6992108ea63d7b873814a1710f4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\library-2.4.0_768042b0d266605c71aa0df674ba3a30ab079b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\a6960e5f406b8af3f726c11d98c9737edba995e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_4beaf441ebc3f1ba54834615e6b12eb8d9d1f944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\14e968282176aab8bbbf4636a472eb96fe7a5b01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_419b72a284f39d386b0e4993f910b726f37eee6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\43d6da19ba8b02b47a30ff175d9525d0aafd6f39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_bb3ffa9834043579918d359ba6a1510df4a46235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\0415cc8bb007b11b8dbaab11897b1bb3c7d6e825\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_7f35acf9670739fdf23bd0a4ffa6821e0e5004cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\3d44e31a943468eff19b67ed32be5baf6762f989\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_83b4ecc0b177db2817571fe2daf61df5a4b557ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\db00e325342c774e43f57f2dc9cb6b5c8a6dea7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f012268b56e56239148960f2697b4ef138b670f">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_0b48c75a0726045c777232218f4d2a7cf929b9e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\eb358980c903151a376bfa16e0b45374bd0ff0bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_ff9a69f0c8b9ef21b087456d8ea4dac67389fc33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_30ef20836a5777132a22fbc2b45df150303f1be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\2a5a5ee803986480ab5c38e9614787ecd4039474\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_490d7099130fca6c0e40c6c70e6fd71486542cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\okio-1.8.0_c7d9f41cebf386e6c2c74e9fb23d72c448b4440b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\167dda5aca052ae7bba61224ee32f15e7975b6d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_ada35c1a61d6d6e7e9bd37a0f47f80afd1207fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\1953cbe5d0b1a4ce4108175dffa733a9d9a50e7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_2185d49810ca5392b7a1e42b54286c79ad510b36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_f4a223db6295ebdefde6efee64a97a2ec73224b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\de94b6623cf7cb7787a76eb1282e10d158b719ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_3e72e05c60f0e8cb222eccc98da58af278718ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\1.3.2\b6dde38349ba9bb5e6ea6320531eae969985dae5\commons-io-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\commons-io-1.3.2_bb4e3ec3707d2b23dc6449702a628cc8e7f794ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\astudio-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_6452c920f54f67b7031740b31577e1612268ecbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\ebec3c4d108f596a844115d43f8f89532b318183\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ae57cc4afcb7ed42ee18f3c0a0a87f4ec3e783f">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_96de66d92d1ed60065e8b18f221c35e636883b5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\ea53df9d5ccd652282bb8912e7f853caef2ac90a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_5b82e11198f31dad071f9fef1259caf0900aa5b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\69682e2a7ce3a5318a3914680be1bc3a2e8de8a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8b6e31343b6de9a37f6d81d7fdda29b3b4a90de">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_78dca93d5985782a9ad45cd3db5db77820eb6d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\167dda5aca052ae7bba61224ee32f15e7975b6d4\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a17be50fb06e2cf3e1bbc724226dcaf402627b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\itso\.android\build-cache\696990945eb11161e2024ace35e393ada0fefb7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="C:\Users\itso\Desktop\DMS\app\build\intermediates\pre-dexed\debug\classes_dad2d1d8a8f871c5482593110fba156b24fe5e84.jar" />
+    </item>
+
+</items>

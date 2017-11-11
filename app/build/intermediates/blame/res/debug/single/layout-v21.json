@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout-v21/nav_header_main.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/layout-v21/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/aae35b493357eed6f29a1c927801414fd404f31e/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

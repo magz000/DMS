@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ph.edu.tip.app.dms"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name="ph.edu.tip.app.dms.app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="ph.edu.tip.app.dms.activities.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="ph.edu.tip.app.dms.activities.PickerActivity" />
+        <activity android:name="ph.edu.tip.app.dms.activities.DocumentsActivity" />
+        <!--
+            <activity
+            android:name=".activities.FoldersActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        -->
+        <activity android:name="ph.edu.tip.app.dms.activities.MainActivity" />
+        <activity android:name="ph.edu.tip.app.dms.activities.PhotoActivity" />
+        <activity android:name="ph.edu.tip.app.dms.activities.AddMoreFiles" />
+        <activity android:name="ph.edu.tip.app.dms.activities.AdvanceSearchActivity" />
+        <activity android:name="ph.edu.tip.app.dms.activities.DocumentUploadedFilesActivity" />
+        <activity android:name="ph.edu.tip.app.dms.activities.DocViewerActivity" />
+
+        <receiver
+            android:name="ph.edu.tip.app.dms.receiver.DownloadReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="br.com.bemobi.medescope.ACTION_BROADCAST_FINISH_WITH_SUCCESS" />
+                <action android:name="br.com.bemobi.medescope.ACTION_BROADCAST_FINISH_WITH_ERROR" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="ph.edu.tip.app.dms.activities.SharedDocumentToMeActivity" />
+        <activity android:name="ph.edu.tip.app.dms.activities.SharedDocumentByMeActivity" />
+        <activity android:name="ph.edu.tip.app.dms.activities.SharedDocumentFilesActivity" />
+        <activity
+            android:name="droidninja.filepicker.FilePickerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        </activity>
+
+        <service
+            android:name="br.com.bemobi.medescope.service.impl.DownloadCommandService"
+            android:process=":download" />
+        <service
+            android:name="br.com.bemobi.medescope.service.impl.DMIntentService"
+            android:process=":download" />
+
+        <receiver
+            android:name="br.com.bemobi.medescope.receiver.DMDownloaderReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE" />
+                <action android:name="android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

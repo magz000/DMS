@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/menu/picker_menu.xml",
+        "source": "/Users/jeielaraneta/.android/build-cache/d661f33c899e8e6489e8b1d1386db7a3b52dd27d/output/res/menu/picker_menu.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/menu/files_menu.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/menu/files_menu.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/menu/menu_sort.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/menu/menu_sort.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/menu/shared_files_menu.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/menu/shared_files_menu.xml"
+    },
+    {
+        "merged": "/Users/jeielaraneta/Desktop/DMS/app/build/intermediates/res/merged/debug/menu/menu_pick.xml",
+        "source": "/Users/jeielaraneta/Desktop/DMS/app/src/main/res/menu/menu_pick.xml"
+    }
+]
